@@ -16,18 +16,20 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
+  name: MATLAB
+- description: Microcontrollers, soldering, circuit simulation.
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Circuit Prototyping
+- description: 
   icon: camera-retro
   icon_pack: fas
-  name: Photography
+  name: Data Aquisition
+- description: SolidWorks, Fusion 360, AutoCAD, 3D printing.
+  name: Mechanical Design
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

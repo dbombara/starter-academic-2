@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Graduate Research Assistant
+    company: Smart Robotics Laboratory, University of Nevada, Reno
+    company_url: 'https://packpages.unr.edu/jun/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Reno, NV
+    date_start: '2018-10-15'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,15 +36,22 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Intern
+    company: NASA Langley Research Center
+    company_url: 'https://www.nasa.gov/langley'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Hampton, VA (Remote)
+    date_start: '2020-06-06'
+    date_end: '2021-05-06'
     description: Taught electronic engineering and researched semiconductor physics.
-
+    
+  - title: Intern
+    company: NASA Ames Research Center
+    company_url: 'https://www.nasa.gov/ames'
+    location: Mountain View, CA
+    date_start: '2019-06-04'
+    date_end: '2019-08-10'
+    description: Prototyped a circuit containing sound, ultrasonic distance, temperature, and gas sensors to be mounted on a mobile robot with applications in     autonomous indoor urban search and rescue.
 design:
   columns: '2'
 ---
